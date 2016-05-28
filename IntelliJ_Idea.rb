@@ -1,3 +1,4 @@
+# coding: utf-8
 cheatsheet do
   title 'IntelliJ Idea'
   docset_file_name 'IntelliJ_Shortcuts'
@@ -157,7 +158,7 @@ cheatsheet do
     end
     entry do
       command 'CMD+W'
-      name 'Clse active editor tab'
+      name 'Close active editor tab'
     end
   end
   
