@@ -314,10 +314,12 @@ cheatsheet do
       name 'Go to symbol'
     end
     entry do
+      command 'SHIFT+CMD+['
       command 'CTRL+Arrow left'
       name 'Go to previous editor tab'
     end
     entry do
+      command 'SHIFT+CMD+]'
       command 'CTRL+Arrow right'
       name 'Go to next editor tab'
     end
